@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+evaluate
+rouge-score>
+scipy
+scikit-learn
+pandas
+numpy
+tqdm
+spacy
+en-core-sci-sm @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+unsloth @ git+https://github.com/unslothai/unsloth.git
+sentencepiece   # required for some tokenizers
+
+
