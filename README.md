@@ -134,15 +134,3 @@ python inference.py \
 - JSON + CSV with article extractive_summary abstractive_summary
 
 
-
-## 📄 Citation
-
-If you use HyBioSum in your work, please cite:
-```bibtex
-@article{Aftiss2025HyBioSum,
-  title   = {HyBioSum: Hybrid Biomedical Long-Document Summarization},
-  author  = {Azzedine Aftiss and Salima Lamsiyah and Christoph Schommer and Ouatik El Alaoui Said},
-  journal = {Under review},
-  year    = {2025}
-}
-```
